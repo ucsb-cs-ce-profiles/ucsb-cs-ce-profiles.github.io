@@ -1,15 +1,11 @@
-title: "UCSB CCS Computing"
-github_url: https://github.com/ucsb-ccs-computing/ucsb-ccs-computing.github.io
+title: "UCSB CS/CE Undergrad Alumni and Student Profiles"
+github_url: https://github.com/ucsb-cs-ce-profiles/ucsb-cs-ce-profiles.github.io
 
 exclude: ['vendor', 'setup.sh', 'jekyll.sh']
 
 timezone: America/Los_Angeles
 
 collections:
-
-  faculty:
-    output: true
-    permalink: /faculty/:path/
 
   students:
     output: true
@@ -39,10 +35,5 @@ defaults:
     values:
       layout: person
 
-  - scope:
-      path: ""
-      type: faculty
-    values:
-      layout: person
-
+ 
 
