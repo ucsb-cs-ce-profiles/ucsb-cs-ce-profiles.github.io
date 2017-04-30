@@ -33,6 +33,7 @@ Members of the CoE CS/CE alumni and undergrad student community are encourage to
 <div id="publications" data-role="collapsible" data-collapsed="false">
   <h2>Publications with CoE CS/CE undergrad or BS/MS co-authors </h2>
   <p>Undergrad student co-authors are in bold.   Publications should appear in this list only if the student's contribution to the publication was made as an undergrad.  Work that started while the student was an undergrad and continued into the 5-year combined BS/MS program may be included, but not work done as a Ph.D. student or after graduating from UCSB.</p>
+  <p>Additional UCSB undergrad co-authors in Computer Science are listed at the [UCSB CCS Computing profiles page](https://ucsb-ccs-computing.github.io).</p>
   <ul>
 {% include publications.html %}
 
