@@ -1,6 +1,8 @@
 ---
 ---
 
+<h1>{{site.title}}</h1>
+
 <div id="about" data-role="collapsible" data-collapsed="true" markdown="1">
 <h2>About this website</h2>
 
