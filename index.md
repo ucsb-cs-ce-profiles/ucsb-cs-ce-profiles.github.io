@@ -1,5 +1,4 @@
 ---
-title: UCSB CCS Computing
 ---
 
 <div id="about" data-role="collapsible" data-collapsed="true" markdown="1">
