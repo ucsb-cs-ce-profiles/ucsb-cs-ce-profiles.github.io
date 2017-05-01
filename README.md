@@ -77,3 +77,11 @@ convert -resize x50 orig.gif 50h.jpg
 convert orig.gif orig.jpg
 ```
 
+# Creating a blank image as a placeholder
+
+If a contributor doesn't provide an image, a blank placeholder can be created
+like this:
+
+```
+convert -size 300x300 xc:white orig.jpg
+```
