@@ -30,5 +30,5 @@ When you submit your homeworks to Synopsis, people who visit your profile can se
 1. Pull the latest changes.
 2. Inside your own folder, make a new folder named `homework1`. For subsequent homeworks, name the folder accordingly `homework2`, `homework3`, ...
 3. Inside the folder put an `index.pdf` (or `index.html` if the homework asks for it). This is the presentations of your homework, it can be an export of your python notebook for example.
-4. Feel free to add any supplementary material such as the `.ipynb` file. Be mindful of the size of the files (no ML models or data etc.)
+4. Feel free to add any supplementary material such as the `.ipynb` file (**must be** `index.ipynb`). Be mindful of the size of the files (no ML models or data etc.)
 5. Submit a pull request.
