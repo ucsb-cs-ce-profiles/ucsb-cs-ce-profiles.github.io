@@ -4,6 +4,7 @@ github_url: https://github.com/7-gate-academy-ml-program/Synopsis
 exclude: ['vendor', 'setup.sh', 'jekyll.sh']
 
 timezone: America/Los_Angeles
+baseurl: /Synopsis
 
 collections:
 
