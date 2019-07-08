@@ -1,5 +1,5 @@
-title: "UCSB CS/CE Undergrad Alumni and Student Profiles"
-github_url: https://github.com/ucsb-cs-ce-profiles/ucsb-cs-ce-profiles.github.io
+title: "7 Gate Academy Machine Learning Cohort 1"
+github_url: https://github.com/7-gate-academy-ml-program/Synopsis
 
 exclude: ['vendor', 'setup.sh', 'jekyll.sh']
 
@@ -11,9 +11,9 @@ collections:
     output: true
     permalink: /students/:path/
 
-  alumni:
-    output: true
-    permalink: /alumni/:path/
+  # alumni:
+  #   output: true
+  #   permalink: /alumni/:path/
 
 
 defaults:
@@ -29,11 +29,11 @@ defaults:
     values:
       layout: person
 
-  - scope:
-      path: ""
-      type: alumni
-    values:
-      layout: person
+  # - scope:
+  #     path: ""
+  #     type: alumni
+  #   values:
+  #     layout: person
 
  
 

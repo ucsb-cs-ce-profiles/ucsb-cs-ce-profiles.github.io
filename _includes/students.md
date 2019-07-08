@@ -1,17 +1,16 @@
-  <h2>Sample Student Profiles</h2>
+  <h2>Students</h2>
   <table>
-  <thead>
+  <!-- <thead>
   <tr><th>pic</th><th>name</th><th>year</th></tr>
-  </thead>
+  </thead> -->
 <tbody>
 {% for student in site.students %}
    <tr>
 
     <td class="pic">
-      <img src="{{ student.url }}/50h.jpg" alt="thumbnail" >
+      <img class="personimageSmall" src="{{ student.url }}/profile.jpg" alt="thumbnail" >
      </td>
      <td class="name"><a href="{{student.url}}">{{ student.name }}</a></td>
-     <td class="year">{{student.year}}</td>
      </tr>
    {% endfor %}
 </tbody>

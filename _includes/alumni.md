@@ -1,4 +1,4 @@
-  <h2>Sample Alumni Profiles</h2>
+  <!-- <h2>Sample Alumni Profiles</h2>
 
   <table>
     <thead>
@@ -18,5 +18,5 @@
      </tr>
    {% endfor %}
   </tbody>
-  </table>
+  </table> -->
 

@@ -49,6 +49,9 @@ img.personimage {
     padding: 0em 1em 1em 1em;
     margin: 0em 1em 1em 1em;
 }
+img.personimageSmall {
+    max-width: 170px;
+}
 
 td.pic { text-align: center; }
 
