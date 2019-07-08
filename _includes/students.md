@@ -8,9 +8,9 @@
    <tr>
 
     <td class="pic">
-      <img class="personimageSmall" src="{{ student.url }}/profile.jpg" alt="thumbnail" >
+      <img class="personimageSmall" src="{{site.baseurl}}/{{ student.url }}/profile.jpg" alt="thumbnail" >
      </td>
-     <td class="name"><a href="{{student.url}}">{{ student.name }}</a></td>
+     <td class="name"><a href="{{site.baseurl}}/{{student.url}}">{{ student.name }}</a></td>
      </tr>
    {% endfor %}
 </tbody>

@@ -1,6 +1,6 @@
 ---
 name: Example Student
-resume: false
+resume: true
 ---
 
 bio here
