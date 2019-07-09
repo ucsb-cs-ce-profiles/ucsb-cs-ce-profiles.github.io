@@ -17,7 +17,7 @@ This repository is storing the progress the 7 Gate Machine Learning Cohort stude
    ---
    ```
    Set the resume to `true` or `false` depending on wether you want to have a resume shown or not.
-4. Add a subdirectory that has the same name as your .md file (i.e. `lastname_firstname`).  In that subdirectory, put your profile picture **exactly** as `profile.jpg` (note the lower-case and the jpg extension). Try to keep the image size less than a MB.
+4. Add a subdirectory that has the same name as your .md file (i.e. `lastname_firstname`).  In that subdirectory, put your profile picture **exactly** as `profile.jpg` (note the lower-case and the jpg extension). Try to keep the image size less than a MB. **The photo must be square shaped (1:1 aspect ratio).**
 
 5. If you have set `resume: true` put your resume in the same place as `resume.pdf`.
 
