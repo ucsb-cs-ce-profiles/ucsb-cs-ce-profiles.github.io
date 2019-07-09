@@ -1,6 +1,6 @@
 ---
-name: Example Student
-resume: true
+name: Rory Cochrane
+resume: false
 ---
 
 bio here
